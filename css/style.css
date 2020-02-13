@@ -1,0 +1,32 @@
+h1{
+	position: fixed;
+    color: orange;
+	font-size: 25px;
+    background-color: rgba(68, 26, 13, 1);
+    margin-left: 22%;
+    margin-top: 0%;
+    z-index: 1;
+}
+
+body{
+	width: 100%;
+	height: 100%;
+	margin: 5px;
+	font-family: "Georgia", Cambria, Cochin, Georgia, Times;
+}
+
+#map {
+	height:98%;
+	width:98%;
+	left:1%;
+	overflow:hidden;
+	position:fixed;
+	border:1px #444 solid;
+}
+
+
+
+
+
+
+
